@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MLX90640" targetName="MLX90640.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd713934-6b56-4867-be5b-995a17384406" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21zVNL9jSnBmZ2K70pGoP0hfWmp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../power_max" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.cidr.embedded.config" />
+  </component>
+  <component name="RunManager" selected="OpenOCD 下载并运行.OCD MLX90640">
+    <configuration name="MLX90640.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MLX90640" TARGET_NAME="MLX90640.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MLX90640" RUN_TARGET_NAME="MLX90640.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD MLX90640" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MLX90640" TARGET_NAME="MLX90640.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="MLX90640" RUN_TARGET_NAME="MLX90640.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="D:\Project\STM32_Project\Clion\config\f4stlink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.MLX90640.elf" />
+      <item itemvalue="OpenOCD 下载并运行.OCD MLX90640" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dd713934-6b56-4867-be5b-995a17384406" name="更改" comment="" />
+      <created>1638943861995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638943861995</updated>
+      <workItem from="1638943876010" duration="1309000" />
+      <workItem from="1639126696189" duration="11960000" />
+      <workItem from="1639153334114" duration="775000" />
+      <workItem from="1639233480666" duration="749000" />
+      <workItem from="1639296401242" duration="11336000" />
+      <workItem from="1639472014996" duration="5625000" />
+      <workItem from="1639546723008" duration="5489000" />
+      <workItem from="1639562655894" duration="3787000" />
+      <workItem from="1639903751400" duration="11206000" />
+      <workItem from="1639993425451" duration="11310000" />
+      <workItem from="1640010000895" duration="4655000" />
+      <workItem from="1640078267715" duration="15902000" />
+      <workItem from="1640255762900" duration="11651000" />
+      <workItem from="1640320025678" duration="8189000" />
+      <workItem from="1640413606742" duration="7633000" />
+      <workItem from="1640447138030" duration="2127000" />
+      <workItem from="1640497055311" duration="13669000" />
+      <workItem from="1640610287065" duration="5039000" />
+      <workItem from="1642050705721" duration="7439000" />
+      <workItem from="1642171239381" duration="790000" />
+      <workItem from="1642337249706" duration="51000" />
+      <workItem from="1642653104199" duration="29065000" />
+      <workItem from="1645605078662" duration="161000" />
+      <workItem from="1645618618356" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

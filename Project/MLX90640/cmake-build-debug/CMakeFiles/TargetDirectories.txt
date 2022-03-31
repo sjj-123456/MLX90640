@@ -1,0 +1,3 @@
+D:/Project/STM32_Project/Clion/MLX90640/cmake-build-debug/CMakeFiles/MLX90640.elf.dir
+D:/Project/STM32_Project/Clion/MLX90640/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/STM32_Project/Clion/MLX90640/cmake-build-debug/CMakeFiles/rebuild_cache.dir

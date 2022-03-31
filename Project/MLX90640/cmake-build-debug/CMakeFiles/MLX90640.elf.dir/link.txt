@@ -1,0 +1,1 @@
+D:\My_Program\GNU_ARM\bin\arm-none-eabi-g++.exe -g -mfloat-abi=hard -mfpu=fpv4-sp-d16 -Wl,-gc-sections,--print-memory-usage,-Map=D:/Project/STM32_Project/Clion/MLX90640/cmake-build-debug/MLX90640.map -mcpu=cortex-m4 -mthumb -mthumb-interwork -T D:/Project/STM32_Project/Clion/MLX90640/STM32F401CCUX_FLASH.ld @CMakeFiles\MLX90640.elf.dir\objects1.rsp -o MLX90640.elf 
